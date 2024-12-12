@@ -1,4 +1,4 @@
-# Sistem-Gaji-PT.Sejahtera-Makmur-Abadi
+# Gaji In
 
 program akan segera di push ke repo 
 
