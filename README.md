@@ -10,6 +10,9 @@ Hi there, project ini merupakan project pribadi yang berkelanjutan sekalian meny
 
 ![image](https://github.com/user-attachments/assets/6badf8da-4889-4329-87a3-a77fd00eff7b)
 
+![Screenshot 2024-12-14 025700](https://github.com/user-attachments/assets/68590af0-e195-4719-8fab-0f177240d19e)
+
+
 ---
 
 # **Sistem Gaji Karyawan**
