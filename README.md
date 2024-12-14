@@ -1,6 +1,6 @@
 # Gaji In
 
-program akan segera di push ke repo 
+v2.0.0-alpha
 
 ---
 
