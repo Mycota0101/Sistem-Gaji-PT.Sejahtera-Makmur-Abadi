@@ -96,4 +96,7 @@ abstract class Orang {
 
     public abstract double hitungGaji();
 }
+```
 
+link bloger 
+https://278hafidzpanjiasharii.blogspot.com/2024/12/eas.html
